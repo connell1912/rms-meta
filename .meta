@@ -1,13 +1,13 @@
 {
   "projects": {
-    "rms-ui": "https://github.com/revaturelabs/rms-ui",
-    "rms-config-service": "https://github.com/revaturelabs/rms-config-service",
-    "rms-discovery-service": "https://github.com/revaturelabs/rms-discovery-service",
-    "rms-gateway-service": "https://github.com/revaturelabs/rms-gateway-service",
-    "rms-campus-service": "https://github.com/revaturelabs/rms-campus-service",
-    "rms-employee-service": "https://github.com/revaturelabs/rms-employee-service",
-    "rms-mail-service": "https://github.com/revaturelabs/rms-mail-service",
-    "rms-work-order-service": "https://github.com/revaturelabs/rms-work-order-service",
-    "rms-batch-service": "https://github.com/revaturelabs/rms-batch-service"
+    "rms-ui": "https://github.com/connell1912/rms-ui",
+    "rms-config-service": "https://github.com/connell1912/rms-config-service",
+    "rms-discovery-service": "https://github.com/connell1912/rms-discovery-service",
+    "rms-gateway-service": "https://github.com/connell1912/rms-gateway-service",
+    "rms-campus-service": "https://github.com/connell1912/rms-campus-service",
+    "rms-employee-service": "https://github.com/connell1912/rms-employee-service",
+    "rms-mail-service": "https://github.com/connell1912/rms-mail-service",
+    "rms-work-order-service": "https://github.com/connell1912/rms-work-order-service",
+    "rms-batch-service": "https://github.com/connell1912/rms-batch-service"
   }
 }
