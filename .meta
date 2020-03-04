@@ -8,6 +8,7 @@
     "rms-employee-service": "https://github.com/connell1912/rms-employee-service",
     "rms-mail-service": "https://github.com/connell1912/rms-mail-service",
     "rms-work-order-service": "https://github.com/connell1912/rms-work-order-service",
-    "rms-batch-service": "https://github.com/connell1912/rms-batch-service"
+    "rms-batch-service": "https://github.com/connell1912/rms-batch-service",
+    "rms-search-service": "https://github.com/connell1912/rms-search-service"
   }
 }
